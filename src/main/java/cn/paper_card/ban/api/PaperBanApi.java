@@ -1,7 +1,7 @@
 package cn.paper_card.ban.api;
 
 @SuppressWarnings("unused")
-interface PaperBanApi {
+public interface PaperBanApi {
 
     // 登录检查玩家是否被封禁
     // 应该传入：AsyncPlayerPreLoginEvent对象
